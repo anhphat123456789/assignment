@@ -1,0 +1,16 @@
+.box{
+    background-color: white;
+}
+.box1{
+    width: 300px;
+    float: left;
+    margin-left: 100px;
+}
+.box2{
+    width: 300px;
+    float: right;
+    margin-right: 100px;
+}
+.box3{
+    padding: 250px;
+}

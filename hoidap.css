@@ -1,0 +1,22 @@
+.form{
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 100px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px gray;
+    background-color: white;
+    
+}
+.form-group{
+    margin: 10px 0px;
+}
+.form-button{
+    background-color: blue;
+    box-shadow: 0 0 5px blue;
+    width: 90px;
+    border-radius: 5px;
+    box-shadow: inset o o 5px blue;
+    height: 40px;
+    color: white;
+
+}
